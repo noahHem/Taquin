@@ -1,4 +1,4 @@
-### Taquin
+# Taquin
 
 ## Comment tester le projet ?
 
